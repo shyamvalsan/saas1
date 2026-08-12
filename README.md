@@ -1,3 +1,7 @@
+> **📦 Archived — unmaintained.**
+> This repository is kept public for history and is no longer actively developed.
+> Issues and pull requests are closed. Fork it freely if it is useful to you.
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with bigspring theme by following this easy steps (No Coding Required)
 
